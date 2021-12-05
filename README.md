@@ -8,7 +8,7 @@ ______MODE_BY = SUKHI_MR_HACKER
 
 ⚡𝕷𝖊𝖌𝖊𝖓𝖉𝖆𝖗𝖞 ᴀғ 𝓓𝓐𝓡𝓚 𝓜𝓐𝓜𝓑𝓐⚡
 
-ITS ALL CREDITS GOES TO LEGENDBOY. 
+ITS ALL CREDITS GOES TO SUKHPAL. 
 USERNAME = ⚜[SUKHPAL](https://github.com/SUKHPAL443)
 <h3> ∂єρℓογ το нєяοκυ </h3>
 
