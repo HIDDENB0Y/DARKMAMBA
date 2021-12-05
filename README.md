@@ -1,37 +1,35 @@
-![photo_2021-10-31_22-23-45 - Copy](https://user-images.githubusercontent.com/87700009/144459912-335a935c-b692-4b70-8bda-6c3235f3ca7c.jpg)
 
-![photo_2021-11-06_01-38-31](https://user-images.githubusercontent.com/87700009/140607545-b8576cd7-7e43-4f74-bf7c-fefae124c749.jpg)
 
-{DEVELOPER}By = [LEGEND-LX](http://t.me/Legendl_Mr_Hacker)
+{DEVELOPER}By = [SUKHI](http://t.me/SUKHI_MR_HACKER)
 
-______MODE_BY = PRAWASH MALVIYA
+______MODE_BY = SUKHI_MR_HACKER
 
-✞︎tß Pythonẞø†
+𝓓𝓐𝓡𝓚 𝓜𝓐𝓜𝓑𝓐
 
-⚡𝕷𝖊𝖌𝖊𝖓𝖉𝖆𝖗𝖞 ᴀғ Pythonẞø✞︎⚡
+⚡𝕷𝖊𝖌𝖊𝖓𝖉𝖆𝖗𝖞 ᴀғ 𝓓𝓐𝓡𝓚 𝓜𝓐𝓜𝓑𝓐⚡
 
 ITS ALL CREDITS GOES TO LEGENDBOY. 
-USERNAME = ⚜[LEGEND-OS](https://github.com/LEGEND-OS)
+USERNAME = ⚜[SUKHPAL](https://github.com/SUKHPAL443)
 <h3> ∂єρℓογ το нєяοκυ </h3>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HIDDENB0Y/DARKMAMBA)
 __________COMING_SOON_______
-<p><a href=https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
+<p><a href=https://github.com/HIDDENB0Y/DARKMAMBA> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
 
 
 _______________String_Session__________________________
 
-[![String](https://telegra.ph/file/a776d32132d1bddf988de.jpg)](https://replit.com/@LEGEND-LX/PYTHONBOT-4#main.py) 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@LEGEND-LX/PYTHONBOT-4#main.py) 
+[![String](https://telegra.ph/file/a776d32132d1bddf988de.jpg)](https://replit.com/@SUKHPAL443/DARKMAMBA#main.py) 
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@SUKHPAL443/DARKMAMBA#main.py) 
 
 Python_Session__________________________________________
 - Click On Generate String
 - Then Click On Green Run Button.
 - Wait for a while then fill the details.
  - String will be saved in your Saved Message.
-TO HOST PYTHON LOCALLY OR ON ANY OTHER VPS CLICK BELOW
+TO HOST DARKMAMBA LOCALLY OR ON ANY OTHER VPS CLICK BELOW
 
-⚡ Python𝕭øt ⚡
+⚡ 𝓓𝓐𝓡𝓚 𝓜𝓐𝓜𝓑𝓐 ⚡
 
 Do U Face Any Problem Contact me Through Telegram
 
@@ -49,10 +47,12 @@ String
 
 Contact Me
 
-• LICENSE •[license](https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8/blob/master/LICENSE)
-• 💡 CREDITS 💞 •
-[⚜LEGEND-OS](https://github.com/LEGEND-OS)
-![image](https://user-images.githubusercontent.com/87700009/133560871-e318f78b-16e7-4fe5-ad57-f1661b99f576.png)
-![image](https://user-images.githubusercontent.com/87700009/133560891-ca9899ed-d95c-4050-b50a-af67790020f5.png)
-![image](https://user-images.githubusercontent.com/87700009/133560924-ac05edc1-43b8-4aa3-ab56-36661d5d5b5d.png)
-![image](https://user-images.githubusercontent.com/87700009/133560910-6117ba9e-9165-4fd1-8fb2-4d1ecca3c20e.png)
+•LICENSE
+•[license](https://github.com/HIDDENB0Y/DARKMAMBA/blob/master/LICENSE)
+• 💡 CREDITS 💞
+[⚜SUKHPAL](https://github.com/SUKHPAL443)
+•OWNER IS NOT RESPONSIBLE OF ANY TYPE OF BAN
+ 
+ 
+ 
+ 
