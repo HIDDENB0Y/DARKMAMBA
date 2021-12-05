@@ -1,7 +1,7 @@
 {
-  "name": "🔥Python_Userbot🔥",
-  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ I N LEGEND-LX Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://telegra.ph/file/db5029c3dcc65888ae9ef.jpg",
+  "name": "🔥𝓓𝓐𝓡𝓚 𝓜𝓐𝓜𝓑𝓐🔥",
+  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ I N HIDDENB0Y Made with Love And By Python Language With Hardwork... ❤ ",
+  "logo": "https://telegra.ph/file/7f9f5b0bdb54ac42be4de.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8/",
-  "website": "https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8/",
-  "success_url": "https://t.me/Python_Userbot_Support",
+  "repository": "https://github.com/HIDDENB0Y/DARKMAMBA/",
+  "website": "https://github.com/HIDDENB0Y/DARKMAMBA/",
+  "success_url": "https://t.me/DARKMAMBA_Support",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -23,23 +23,23 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is LEGEND-LX User",
-      "value": "LEGEND-LX",
+      "description": "Fill your Full name. By default it is SUKHPAL User",
+      "value": "SUKHPAL",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .pyalive Or .op  Command.",
-      "value": "Pythonẞø† 𝐈𝐬 Online-Lx",
+      "value": "𝓓𝓐𝓡𝓚 𝓜𝓐𝓜𝓑𝓐 𝐈𝐬 Online",
       "required": false
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Python_Userbot_Support",
+      "value": "@DARKMAMBA_Support",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Group Username",
-      "value": "@Python_Updata",
+      "value": "@DARKMAMBA_UPDATES",
       "required": false
     },
     "EXTRA_PLUGIN": {
@@ -54,32 +54,32 @@
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .pybot command.",
-      "value": "https://telegra.ph/file/00399ad38373f61c5a2ff.jpg",
+      "value": "https://telegra.ph/file/95f920f5168d50160f5a7.jpg",
       "required": true
     },
     "PYTHON_PIC": {
-      "description": "Put here any telegraph media link for PYTHON pic in .op command.",
-      "value": "https://telegra.ph/file/00399ad38373f61c5a2ff.jpg",
+      "description": "Put here any telegraph media link for DARKMAMBA pic in .op command.",
+      "value": "https://telegra.ph/file/95f920f5168d50160f5a7.jpg",
       "required": true
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .pyalive Or .op command.",
-      "value": "https://telegra.ph/file/7949b91419c14f3b91bc3.jpg",
+      "value": "https://telegra.ph/file/95f920f5168d50160f5a7.jpg",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍 ϐєϲαυѕє ι αм υѕєя οƒ ✞︎t͛ẞ̸ Pythonẞø✞︎ @Python_Userbot_Support",
+      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍 ϐєϲαυѕє ι αм υѕєя οƒ 𝓓𝓐𝓡𝓚𝓜𝓐𝓜𝓑𝓐 @DARKMAMBA_Support",
       "required": true
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/00399ad38373f61c5a2ff.jpg",
+      "value": "https://telegra.ph/file/95f920f5168d50160f5a7.jpg",
       "required": true
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ Pythonẞø✞︎ 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
+      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
       "required": false
     },
     "MAX_FLOOD_IN_PM": {
@@ -88,7 +88,7 @@
       "required": true
     },
     "LOGGER_ID": {
-      "description": "Create a private channel. And get it's id from @missrose_bot and paste here. Value should start with -100",
+      "description": "Create a private channel. And get it's id from @missrose_bot OR @MAMBA_GBOT and paste here. Value should start with -100",
       "value": "",
       "required": true
     },
@@ -120,11 +120,11 @@
       "value": ""
     },
     "PRIVATE_GROUP_BOT_API_ID": {
-      "description": "Create a private group and  add @Missrose_bot then type /id add that value here for save messages",
+      "description": "Create a private group and  add @Missrose_bot OR @MAMBA_GBOT then type /id add that value here for save messages",
       "value": ""
     },
     "PRIVATE_GROUP_ID": {
-      "description": "Create a private group add @Missrose_bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
+      "description": "Create a private group add @Missrose_bot OR @MAMBA_GBOT then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
       "value": ""
     },
     "PM_LOGGR_BOT_API_ID": {
@@ -132,7 +132,7 @@
        "value": ""
     }, 
     "PYTHON_STRING": {
-      "description": "Get this value by running https://replit.com/@LEGEND-LX/PYTHONBOT-4#main.py ",
+      "description": "Get this value by running https://replit.com/@SUKHPAL443/DARKMAMBA#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
