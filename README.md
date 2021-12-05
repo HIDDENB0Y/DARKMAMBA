@@ -19,7 +19,7 @@ __________COMING_SOON_______
 
 _______________String_Session__________________________
 
-[![String](https://telegra.ph/file/a776d32132d1bddf988de.jpg)](https://replit.com/@SUKHPAL443/DARKMAMBA#main.py) 
+[![String](https://telegra.ph/file/95f920f5168d50160f5a7.jpg)](https://replit.com/@SUKHPAL443/DARKMAMBA#main.py) 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@SUKHPAL443/DARKMAMBA#main.py) 
 
 Python_Session__________________________________________
