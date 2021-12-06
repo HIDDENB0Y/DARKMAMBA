@@ -6,10 +6,10 @@ _get_repolink () {
     regex='(https?)://github.com/.+/.+'
     if [[ $DARKMAMBA_REPO == "DARKMAMBA" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1MWC9QWVRIT05VU0VSQk9UL2FyY2hpdmUvbWFpbi56aXA" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0hJRERFTkIwWS9EQVJLTUFNQkFVU0VSQk9UL2FyY2hpdmUvbWFpbi56aXA=" | base64 -d
     elif [[ $DARKMAMBA_REPO == "DARKMAMBA" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1MWC9QWVRIT05VU0VSQk9UL2FyY2hpdmUvbWFpbi56aXA" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0hJRERFTkIwWS9EQVJLTUFNQkFVU0VSQk9UL2FyY2hpdmUvbWFpbi56aXA=" | base64 -d
     elif [[ $DARKMAMBA_REPO =~ $regex ]]
     then
         if [[ $DARKMAMBA_REPO_BRANCH ]]
@@ -19,7 +19,7 @@ _get_repolink () {
             echo "${DARKMAMBA_REPO}/archive/master.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1MWC9QWVRIT05VU0VSQk9UL2FyY2hpdmUvbWFpbi56aXA" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0hJRERFTkIwWS9EQVJLTUFNQkFVU0VSQk9UL2FyY2hpdmUvbWFpbi56aXA=" | base64 -d
     fi
 }
 
